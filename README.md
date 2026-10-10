@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Python+Dosya+D%C3%BCzenleyici+%23KULLANICI_ADIN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Python+Dosya+D%C3%BCzenleyici+%239ojp" alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Python'u kurarken **"Add Python to PATH"** kutucuğunu işaretlemeyi unutmuş ol
 
 Olmazsa `python` yerine `py` veya `python3` yazmayı dene.
 
-- Herhangi bir hata bulmanız durumunda [@KULLANICI_ADIN](https://github.com/KULLANICI_ADIN)'a ulaşabilirsiniz ^^
+- Herhangi bir hata bulmanız durumunda [@9ojp](https://github.com/9ojp)'a ulaşabilirsiniz ^^
 
 ## 📄 Lisans
 
